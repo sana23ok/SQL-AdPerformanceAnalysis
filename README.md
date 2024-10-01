@@ -1,3 +1,3 @@
-###Advertising Data Analysis - SQL Queries Repository
+# Advertising Data Analysis - SQL Queries Repository
 
 This repository contains a series of SQL queries designed to analyze advertising performance across multiple platforms such as Facebook Ads and Google Ads. The queries focus on consolidating ad metrics, calculating KPIs (Key Performance Indicators) such as CTR, CPC, CPM, and ROMI, and generating insightful reports for BI (Business Intelligence) systems.
